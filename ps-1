@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sampleportfolio</title>
+</head>
+<body>
+    <header> 
+        <h1> My Portfolio </h1>
+    </header>
+    <main>
+
+        <h3> personal information </h1>
+        <section> Name : Mahesh | fathers Name : Ganesh Reddy Dharmala  </section>
+
+        <h3> Educational Information </h3>
+        <section>  School : KV1 SVN | Diploma : Alwardas | Graduation : ANITS </section>
+        <article> my brief story: </article> 
+        <!-- aricle tag is used for adding an brief article information to the section or web page. -->
+        <a href="https://www.google.com/search?q=Animal+2023&rlz=1C1VDKB_enUS1025US1025&oq=animal&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MgoIARAuGLEDGIAEMhAIAhAAGIMBGLEDGIAEGIoFMhAIAxAAGIMBGLEDGIAEGIoFMg0IBBAAGIMBGLEDGIAEMgcIBRAAGIAEMg0IBhAAGIMBGLEDGIAEMg0IBxAAGIMBGLEDGIAEMg0ICBAAGIMBGLEDGIAE0gEIMTg3MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8" target="_main"><img src="https://akm-img-a-in.tosshub.com/lingo/itne/images/story/202307/new_project_37-sixteen_nine.jpg?size=948:533" height="400" weight="200" alt="animal movie"> </a>
+        <br>
+        <br>    
+        <hr>
+        <a href="/hello.html" target="_main">click here to say hello</a>
+        <aside>
+            this is an advertisent 
+        </aside>
+
+    <div>
+            <P> hi </P>
+            <P> hello! </P>
+            <P> namaste </P>
+    </div>
+    <div> 
+            <p> bye </p>
+            <P> chalte chalte </P>
+            <P> caio </P> 
+
+    </div>
+
+    <span> happy new year 2024 </span>
+
+    
+        
+    </main>
+    <footer>
+         <h5> customer service number 08881003838 </h3>
+    </footer>
+    
+</body>
+</html>
